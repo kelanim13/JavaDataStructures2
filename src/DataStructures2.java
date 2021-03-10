@@ -20,9 +20,9 @@ public class DataStructures2 {
 	
 	#2
 	 		
-		double[ ] exampleArray = {1,5,6,5,4,1};        
+	double[ ] exampleArray = {1,5,6,5,4,1};        
 		
-		double maximum = exampleArray[0];  
+	double maximum = exampleArray[0];  
 		             
 	    int index = 0;    
 	                                  
